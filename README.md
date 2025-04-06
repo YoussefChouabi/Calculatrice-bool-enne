@@ -1,14 +1,13 @@
-Calculatrice booléenne (notation infixée)
+Boolean Calculator (Infix Notation)
 
-l.Lire une expression booléenne (ex: (A AND (B OR NOT C) 
+Read a boolean expression (e.g., (A AND (B OR NOT C)))
 
-2.Implémenter une conversion infixée vers postfixée avec priorité logique.
+Implement infix to postfix conversion with logical operator precedence.
 
-3.Évaluer l'expression postfixée pour différentes valeurs des variables.
+Evaluate the postfix expression for different variable values.
 
-4.Gérer Ia négation multiple (ex: NOT NOT A).
+Handle multiple negations (e.g., NOT NOT A).
 
-5.Implémenter une fonction qui simplifie rexpression (ex: double négation, identités).
+Implement a function to simplify the expression (e.g., double negation elimination, boolean identities).
 
-6.Optimiser l'utilisation mémoire et prévenir tout dépassement.
-
+Optimize memory usage and prevent buffer overflows.
